@@ -98,5 +98,3 @@ if __name__ == "__main__":
     print("⏱️ 開始監控 PTT Watch 板（每10分鐘檢查一次）")
     check_watch_board()
     scheduler.start()
-
-!pip install apscheduler
